@@ -1,2 +1,2 @@
 # StudentDataDemo
-University students data by course Id using spring Boot Crud Rest operations.
+University students data by course Id using SpringBoot Crud Rest operations.
